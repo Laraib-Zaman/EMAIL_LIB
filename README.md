@@ -1,6 +1,5 @@
 
 
-```markdown
 # Email Service
 
 A Python package for sending emails using Gmail's SMTP server.
